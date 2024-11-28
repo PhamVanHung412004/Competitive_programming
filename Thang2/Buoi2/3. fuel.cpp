@@ -1,1 +1,0 @@
-//https://oj.vnoi.info/problem/olp_kc23_fuel

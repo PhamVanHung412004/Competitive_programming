@@ -1,1 +1,0 @@
-//https://vjudge.net/problem/Gym-100819S
